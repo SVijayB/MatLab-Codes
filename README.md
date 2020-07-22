@@ -25,10 +25,10 @@
 
 ## Contributing 
 
-To contribute to the programs, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/MatLab-Codes/blob/master/docs/CONTRIBUTING.md) before sending us Pull requests.
+To contribute to MatLab-Codes, fork the repository, create a new branch and send us a pull request. Make sure you read [CONTRIBUTING.md](https://github.com/SVijayB/MatLab-Codes/blob/master/.github/CONTRIBUTING.md) before sending us Pull requests. 
 
 Also, thanks for contributing to Open-source!
 
-## License
+## License 
 
-This repository is licensed under MIT. Read the [LICENSE](https://github.com/SVijayB/MatLab-Codes/blob/master/LICENSE) file for more information.
+MatLab-Codes is under The MIT License. Read the [LICENSE](https://github.com/SVijayB/MatLab-Codes/blob/master/LICENSE) file for more information.
